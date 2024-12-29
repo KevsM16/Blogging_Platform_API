@@ -1,4 +1,4 @@
-How to instal the project?
+How to instal the project?=
 On your left there's a green code bottom ,
 Once you see it , click it and press the "Download zip option",
 and then open with the programm of your choice.
